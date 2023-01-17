@@ -1,11 +1,7 @@
-"""
-For this home work you simply need to update the function below with your
-GitHub username so that it prints out to the console:
 
-"Hello <username>"
+print("Hello World")
 
-where <username> is replaced by your actual github username.
-"""
+# adapted from James Mertz
 
 def greeting():
     # replace KronosKoders with your own username
